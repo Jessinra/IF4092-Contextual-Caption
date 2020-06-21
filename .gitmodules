@@ -1,0 +1,12 @@
+[submodule "Lab"]
+	path = Lab
+	url = https://github.com/Jessinra/Image-Captioning-Lab-1
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/Jessinra/Image-Captioning-Lab-3
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/Jessinra/Image-Captioning-Lab-2
+[submodule "Lab_T1"]
+	path = Lab_T1
+	url = https://github.com/Jessinra/Image-Captioning-Lab-T1
