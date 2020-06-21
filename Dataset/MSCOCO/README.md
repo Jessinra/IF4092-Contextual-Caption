@@ -1,6 +1,6 @@
 # MSCOCO dataset
 
-You can extract MSCOCO dataset here
+You can download and extract MSCOCO dataset here.
 
 Download from [here](http://cocodataset.org/#download)
 
